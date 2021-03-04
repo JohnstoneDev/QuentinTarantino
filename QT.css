@@ -24,6 +24,7 @@ body{
     background-color:#A6D0A6;
     font-size:medium;
     display:flex;
+    background:linear-gradient(0.02turn, #3f87a6, #ebf8e1, #f69d3c);
 }
 a{
     color:red
@@ -48,4 +49,7 @@ ul{
     display:flex;
     justify-content:center;
     background:#A6D0A6;
+}
+.blockquote{
+    text-align:center;
 }
